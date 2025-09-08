@@ -3,7 +3,7 @@
  
 ## Rafael  Idade: 43
 
-### Professor de Programa e Matemática 
+### Professor de Programação e Matemática 
 
 #### Formação Acadêmica
 
